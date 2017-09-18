@@ -4,7 +4,7 @@
 }
 
 .header  {
-  background-image: url("./resources/css/images/the-flatiron-building.png");
+  background-image: "resources/images/the-flatiron-building.png";
 }
 
 h1 {
